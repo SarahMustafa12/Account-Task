@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EraaSoft Tasks\\Task 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|e:\\eraasoft tasks\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|e:\\eraasoft tasks\\task 4\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|solutionrelative:trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|e:\\eraasoft tasks\\task 4\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|solutionrelative:accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|e:\\eraasoft tasks\\task 4\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|e:\\eraasoft tasks\\task 4\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|e:\\eraasoft tasks\\task 4\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{620D0C74-6C1F-4353-908C-E9D514261FB7}|Task 4.csproj|solutionrelative:checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "E:\\EraaSoft Tasks\\Task 4\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "TrustAccount.cs",
+              "ToolTip": "E:\\EraaSoft Tasks\\Task 4\\TrustAccount.cs",
+              "RelativeToolTip": "TrustAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:15:47.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "E:\\EraaSoft Tasks\\Task 4\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "CheckingAccount.cs",
+              "ToolTip": "E:\\EraaSoft Tasks\\Task 4\\CheckingAccount.cs",
+              "RelativeToolTip": "CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:25:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "E:\\EraaSoft Tasks\\Task 4\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "E:\\EraaSoft Tasks\\Task 4\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:12:38.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "E:\\EraaSoft Tasks\\Task 4\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "AccountUtil.cs",
+              "ToolTip": "E:\\EraaSoft Tasks\\Task 4\\AccountUtil.cs",
+              "RelativeToolTip": "AccountUtil.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:42:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\EraaSoft Tasks\\Task 4\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "E:\\EraaSoft Tasks\\Task 4\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:40:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\EraaSoft Tasks\\Task 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\EraaSoft Tasks\\Task 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:24:59.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
